@@ -1,0 +1,43 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+*kaggle.json
+*credentials*
+# Do not redistribute raw or derived transaction-level data.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+# Models, prediction arrays and per-node outputs remain local.
+models/*
+!models/.gitkeep
+results/local/
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.parquet
+*.zip
+# Reproducible small reports and publication figures may be tracked.
+.coverage
+htmlcov/
+
+.cache/
+# Private recovery markers, local diagnostics and generated temporary files.
+*.pending
+*.log
+*.tmp
+*.bak
+tmp/
+work/
+# Plot-only exploratory runs are not the publication figures.
+reports/figures/exploratory_*/
+reports/figures/exploratory_stage*/

@@ -1,0 +1,11 @@
+Risk,Evidence,Impact,Mitigation / limitation
+Future snapshot inputs,Input construction audited at all 49 cutoffs,Look-ahead bias,Filter both endpoints and node rows at every prediction time; source feature provenance remains unresolved
+Dataset-wide normalization,Paper section 4.1: normalization used the entire release,Training inputs reflect held-out distribution statistics,Train-only rescaling may cancel a pure affine transform; it cannot repair future histories or establish full provenance
+Address-history features,Semantics documentation: features 23–94 use a fixed later reference block,Local-only can remain future-informed,Drop address-history group in sensitivity; cannot certify retained values
+Forward-neighbor aggregates,Published group 95–166 summarizes incoming/outgoing transaction neighbors,Graph signal is already embedded in tabular inputs,Report published and conservative groups on the same labeled nodes
+Shared-address dependence,Paper section 4.3: address signals and labels recur across partitions,Unseen-entity generalization is untested,No address-disjointness audit possible from released IDs and edges alone
+Truncated neighborhoods,Paper sections 3.2 and 4.4: aggregates include neighbors outside the released graph,Tabular and GNN inputs describe different scopes,Separate feature groups; do not claim gains reflect access to equivalent raw information
+Cross-time released edges,Observed 0 cross-time edges,Later nodes can contaminate earlier graphs if present,Cutoff graph builder; zero cross-time edges does not certify feature cleanliness
+Unknown-label selection,Observed 77.15% unknown,Known-label metrics may not generalize,Unknown excluded from supervision; eligible unknown nodes allowed in message passing
+Test EDA exposure,Stage 1 requested class summaries for all periods,Researcher decisions can adapt to the holdout,Record exposure; freeze methodology before predictive test evaluation
+Label timing,Publication labels have no acquisition timestamps,Training labels may not be historically available,Retrospective benchmark only; no operational label-latency claim

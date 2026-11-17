@@ -1,0 +1,22 @@
+{
+  "created_at_utc": "2026-11-08T20:14:25.735126+00:00",
+  "protocol_sha256": "956cd79318c210e57ee5ec6d68bd2a56762afb512cc7e3bda9a1f7f74a2956e0",
+  "inference_receipt_sha256": "e11f8bea3d143a142f2ca9b6f5f273e170aa782fa388ff14c0f7de21b410452b",
+  "source_predictions_sha256": {
+    "test_raw_predictions.csv": "e26f9aef691308e2fcda93afd35347a8584db5bbc0264321a6fe0678ab25fce9",
+    "test_platt_predictions.csv": "224220b7edc9ac4447ca5503ae5f326fe7758d987d145a71969230e54dc6f6e4",
+    "test_native_scores.npz": "abd8ec7d45105e6e217e1c7678a9d17866065fb00b33fe25865ce94edae60354"
+  },
+  "new_inference": false,
+  "new_model_fits": 0,
+  "curve_display": "101 fixed interpolated display points; reported AP/ROC-AUC come from full saved metrics, not area under this grid",
+  "calibration": "10 fixed equal-width bins; no calibration fitting",
+  "primary_display_seed": 42,
+  "late_window": "43\u201349 is a post-hoc diagnostic requested by the independent audit; no new threshold selected",
+  "independent_audit_scope": "Numerical and code consistency verified; private-checkpoint and prediction inference was not independently reproduced",
+  "output_sha256": {
+    "operating_window_metrics.csv": "842fd9ebcd24c3049722eb438e16dfe9b0d9e7c2beb62becb579f4d75ffd553c",
+    "curve_display_points.csv": "bad182161a29de3c17d212446406e979fe3b3fad4e2d5d14836e7a37c97f990c",
+    "calibration_display_bins.csv": "b2946b9498ea54f6be5a0b6e3e7d043cb9afe2e2e3cef1cc42761e5e3adce101"
+  }
+}

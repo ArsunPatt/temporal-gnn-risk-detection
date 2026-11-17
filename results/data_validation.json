@@ -1,0 +1,19 @@
+{
+  "transactions": 203769,
+  "edges": 234355,
+  "time_steps": 49,
+  "illicit": 4545,
+  "licit": 42019,
+  "unknown": 157205,
+  "published_features_including_time": 166,
+  "missing_feature_values": 0,
+  "non_finite_feature_values": 0,
+  "duplicate_feature_records": 0,
+  "duplicate_class_records": 0,
+  "duplicate_edges": 0,
+  "duplicate_feature_vectors": 34,
+  "self_loops": 0,
+  "cross_time_edges": 0,
+  "backward_time_edges": 0,
+  "unknown_percentage": 77.14863399241298
+}

@@ -1,0 +1,20 @@
+{
+  "revision": "Stage 1 independent-review follow-up",
+  "test_result": "....................................................                     [100%]\n52 passed in 6.30s",
+  "notebook_mode": "FULL_RUN",
+  "executed_code_cells": 20,
+  "notebook_seconds": 12.275,
+  "notebook_errors_or_stderr": 0,
+  "original_csv_sha256_unchanged": true,
+  "all_14_figure_png_sha256_unchanged": true,
+  "four_placeholder_notebooks_sha256_unchanged": true,
+  "comparison_group_dimensions": {
+    "transaction_sensitivity": 18,
+    "local_without_time": 93,
+    "published_without_time": 165
+  },
+  "missing_feature_values": 0,
+  "non_finite_feature_values": 0,
+  "cutoffs_passed": 49,
+  "stage2_started": false
+}

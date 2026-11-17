@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="851.184pt" height="551.592pt" viewBox="0 0 851.184 551.592" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T02:51:40.157963</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 551.592 
+L 851.184 551.592 
+L 851.184 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 7.2 88.501353 
+L 398.2086 88.501353 
+" clip-path="url(#pc0346b8578)" style="fill: none; stroke: #d55e00; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start; fill: #d55e00" x="7.2" y="80.417533" transform="rotate(-0 7.2 80.417533)">Pooled ranking</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 132.161502)">LightGBM leads pooled AP on</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 149.398565)">matched unperturbed benchmark inputs</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 166.500862)">18 / 93 / 165: 0.5993 / 0.7639 / 0.7866</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 183.603159)">This is not a deployment guarantee.</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="line2d_2">
+    <path d="M 432.396 88.501353 
+L 823.4046 88.501353 
+" clip-path="url(#p1b2bdafea4)" style="fill: none; stroke: #0072b2; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start; fill: #0072b2" x="432.396" y="80.600346" transform="rotate(-0 432.396 80.600346)">Late screening failure</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 132.161502)">LightGBM 165, steps 43–49: 4 / 169</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 149.398565)">Frozen-threshold recall: 2.37%</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 166.500862)">Post-hoc diagnostic; no threshold retuning.</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="line2d_3">
+    <path d="M 7.2 337.36608 
+L 398.2086 337.36608 
+" clip-path="url(#p42890e4578)" style="fill: none; stroke: #009e73; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start; fill: #009e73" x="7.2" y="329.282261" transform="rotate(-0 7.2 329.282261)">Robustness is conditional</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 381.02623)">Specified Gaussian noise favors neural models.</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 398.380808)">Mean masking retains the LightGBM lead.</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(7.2 415.870152)">Edge removal sometimes helps GAT.</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="line2d_4">
+    <path d="M 432.396 337.36608 
+L 823.4046 337.36608 
+" clip-path="url(#p20e0154cb2)" style="fill: none; stroke: #777777; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start; fill: #777777" x="432.396" y="329.282261" transform="rotate(-0 432.396 329.282261)">Limits of the evidence</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 381.02623)">No feature group is certified leakage-free.</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 398.515573)">15 snapshots; selective labels; capped fitting.</text>
+    <text style="font-size: 11.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(432.396 416.004917)">GRU context cannot directly rerank within a snapshot.</text>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 16px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="425.592" y="18.8475" transform="rotate(-0 425.592 18.8475)">Research findings · observations, operating policy and evidence limits</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc0346b8578">
+   <rect x="7.2" y="60.270545" width="411.588" height="235.256727"/>
+  </clipPath>
+  <clipPath id="p1b2bdafea4">
+   <rect x="432.396" y="60.270545" width="411.588" height="235.256727"/>
+  </clipPath>
+  <clipPath id="p42890e4578">
+   <rect x="7.2" y="309.135273" width="411.588" height="235.256727"/>
+  </clipPath>
+  <clipPath id="p20e0154cb2">
+   <rect x="432.396" y="309.135273" width="411.588" height="235.256727"/>
+  </clipPath>
+ </defs>
+</svg>

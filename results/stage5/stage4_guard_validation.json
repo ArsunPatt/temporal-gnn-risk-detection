@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "existing_freeze_regeneration_identical": true,
+  "cache_reuse_validated": true,
+  "new_model_fits": 0,
+  "new_test_inference": false,
+  "stage4_guard_cells_only": true,
+  "robustness_rows": 720,
+  "edge_audit_rows": 1080
+}

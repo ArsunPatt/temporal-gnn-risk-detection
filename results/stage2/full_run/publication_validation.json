@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "stage": 2,
+  "main_notebooks": 5,
+  "substantive_notebooks": 2,
+  "notebooks": [
+    {
+      "notebook": "01_data_exploration.ipynb",
+      "executed_code_cells": 20,
+      "inline_figures": 14
+    },
+    {
+      "notebook": "02_ml_baselines.ipynb",
+      "executed_code_cells": 14,
+      "inline_figures": 11
+    }
+  ],
+  "png_figures": 25,
+  "svg_figures": 25,
+  "stage1_notebook_and_figures_unchanged": true,
+  "future_placeholders_unchanged": true,
+  "original_raw_hashes_match_stage1": true,
+  "base_model_bundles": 16,
+  "candidate_fits": 32,
+  "all_direct_dependency_versions_match": true,
+  "pip_check": "No broken requirements found.",
+  "notebook_error_or_stderr_outputs": 0,
+  "final_test_model_predictions_computed": false,
+  "raw_or_derived_transaction_data_in_package": false,
+  "models_or_environment_in_package": false,
+  "private_artifacts_git_ignore_check": "passed",
+  "public_files_machine_path_scan": "passed"
+}

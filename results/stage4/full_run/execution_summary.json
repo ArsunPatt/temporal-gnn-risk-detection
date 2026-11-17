@@ -1,0 +1,79 @@
+{
+  "stage": 4,
+  "run_mode": "FULL_RUN",
+  "exploratory": false,
+  "protocol_sha256": "956cd79318c210e57ee5ec6d68bd2a56762afb512cc7e3bda9a1f7f74a2956e0",
+  "reused_models": 33,
+  "tabular_models": 6,
+  "neural_models": 27,
+  "neural_seeds": [
+    42,
+    43,
+    44
+  ],
+  "test_labeled": 16670,
+  "test_illicit": 1083,
+  "new_model_fits": 0,
+  "new_calibrator_fits": 0,
+  "test_threshold_selections": 0,
+  "prediction_rows_per_variant": 550110,
+  "robustness_rows": 720,
+  "bootstrap_replications": 1000,
+  "new_figures": [
+    "stage4_01_final_test_ap",
+    "stage4_02_ap_over_time",
+    "stage4_03_recall_over_time",
+    "stage4_04_prevalence_coverage",
+    "stage4_05_feature_shift",
+    "stage4_06_graph_shift",
+    "stage4_07_risk_scores",
+    "stage4_08_feature_noise",
+    "stage4_09_feature_masking",
+    "stage4_10_edge_robustness",
+    "stage4_11_paired_uncertainty",
+    "stage4_12_convergence",
+    "stage4_13_error_by_degree",
+    "stage4_14_illicit_disagreements",
+    "stage4_15_calibration_transfer",
+    "stage4_16_quality_inference_cost"
+  ],
+  "seconds": 166.007,
+  "sections": {
+    "model_loading_and_frozen_inference": 12.0058,
+    "final_test_metrics": 4.1485,
+    "natural_distribution_shift": 58.9898,
+    "controlled_robustness": 52.425,
+    "temporal_block_bootstrap": 34.946,
+    "saved_history_convergence": 0.2739,
+    "aggregate_error_analysis": 1.4856
+  },
+  "mps_available": true,
+  "cpu_threads": 2,
+  "actual_devices": {
+    "logistic_regression": [
+      "cpu"
+    ],
+    "lightgbm": [
+      "cpu"
+    ],
+    "graphsage": [
+      "mps"
+    ],
+    "gat": [
+      "mps"
+    ],
+    "sage_gru": [
+      "cpu"
+    ]
+  },
+  "versions": {
+    "torch": "2.8.0",
+    "torch-geometric": "2.7.0",
+    "scikit-learn": "1.7.2",
+    "lightgbm": "4.6.0",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3"
+  },
+  "stage5_started": false
+}

@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "notebooks": 5,
+  "compiled_code_cells": 71,
+  "saved_inline_figures": 70,
+  "readme_images_checked": 3,
+  "late_recall": 0.023668639053254437,
+  "new_model_fits": 0,
+  "new_inference": false,
+  "mps_available_in_smoke_process": true,
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "torch": "2.8.0",
+    "torch-geometric": "2.7.0",
+    "scikit-learn": "1.7.2",
+    "lightgbm": "4.6.0",
+    "pytest": "8.4.2"
+  }
+}

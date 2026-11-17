@@ -1,0 +1,912 @@
+[
+  {
+    "model_id": "graphsage__conservative18__original__seed42",
+    "run_id": "graphsage__conservative18__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9185822606086731,
+        "fpr_threshold": 0.9727832674980164,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5568274700288611,
+        "fpr_threshold": 0.7203657955673153,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.622657175731561,
+    "calibration_intercept": -1.280550411009001
+  },
+  {
+    "model_id": "graphsage__conservative18__original__seed43",
+    "run_id": "graphsage__conservative18__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9113647937774658,
+        "fpr_threshold": 0.9765726923942566,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5360255791645946,
+        "fpr_threshold": 0.7404932273102072,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.6459666780926182,
+    "calibration_intercept": -1.3610172137693826
+  },
+  {
+    "model_id": "graphsage__conservative18__original__seed44",
+    "run_id": "graphsage__conservative18__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9238219261169434,
+        "fpr_threshold": 0.9353712797164917,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.717357594327861,
+        "fpr_threshold": 0.7468624993851145,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.8513700538496385,
+    "calibration_intercept": -1.1931556224204174
+  },
+  {
+    "model_id": "gat__conservative18__original__seed42",
+    "run_id": "gat__conservative18__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.4485812783241272,
+        "fpr_threshold": 0.9230291247367859,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.12883009056994554,
+        "fpr_threshold": 0.6354991611409238,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.9169660156312023,
+    "calibration_intercept": -1.7220765404730114
+  },
+  {
+    "model_id": "gat__conservative18__original__seed43",
+    "run_id": "gat__conservative18__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8728577494621277,
+        "fpr_threshold": 0.9401424527168274,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.43775247471981643,
+        "fpr_threshold": 0.6004593089817533,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7946714586140768,
+    "calibration_intercept": -1.7811959122660852
+  },
+  {
+    "model_id": "gat__conservative18__original__seed44",
+    "run_id": "gat__conservative18__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.5538293123245239,
+        "fpr_threshold": 0.70260089635849,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.2246733660778154,
+        "fpr_threshold": 0.6183053263111902,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 2.674188326207876,
+    "calibration_intercept": -1.8166761594522043
+  },
+  {
+    "model_id": "sage_gru__conservative18__original__seed42",
+    "run_id": "sage_gru__conservative18__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9320500493049622,
+        "fpr_threshold": 0.967007040977478,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.7029330454130288,
+        "fpr_threshold": 0.822716809456236,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.8870843544200431,
+    "calibration_intercept": -1.4616284338867886
+  },
+  {
+    "model_id": "sage_gru__conservative18__original__seed43",
+    "run_id": "sage_gru__conservative18__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9451172947883606,
+        "fpr_threshold": 0.958191454410553,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.6614967028583876,
+        "fpr_threshold": 0.708969678452814,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7711242343450968,
+    "calibration_intercept": -1.5247342287797132
+  },
+  {
+    "model_id": "sage_gru__conservative18__original__seed44",
+    "run_id": "sage_gru__conservative18__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9251239895820618,
+        "fpr_threshold": 0.9541119933128357,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.6728878291746455,
+        "fpr_threshold": 0.7570515610868983,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7979243187413446,
+    "calibration_intercept": -1.2847813326228983
+  },
+  {
+    "model_id": "graphsage__local93__original__seed42",
+    "run_id": "graphsage__local93__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.920987069606781,
+        "fpr_threshold": 0.9644819498062134,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.6028521934822184,
+        "fpr_threshold": 0.8463932494173534,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.524416824044397,
+    "calibration_intercept": -3.326351731180371
+  },
+  {
+    "model_id": "graphsage__local93__original__seed43",
+    "run_id": "graphsage__local93__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9414905309677124,
+        "fpr_threshold": 0.9745509624481201,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.6918038594717738,
+        "fpr_threshold": 0.8769092339998583,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.3320462942832714,
+    "calibration_intercept": -2.8922254955110436
+  },
+  {
+    "model_id": "graphsage__local93__original__seed44",
+    "run_id": "graphsage__local93__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9266246557235718,
+        "fpr_threshold": 0.9825038313865662,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5704537464938951,
+        "fpr_threshold": 0.8969396632754242,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.2598986146478623,
+    "calibration_intercept": -2.911350076077568
+  },
+  {
+    "model_id": "gat__local93__original__seed42",
+    "run_id": "gat__local93__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8179861903190613,
+        "fpr_threshold": 0.972107470035553,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.30317030551676905,
+        "fpr_threshold": 0.8377324885462754,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.207656795010894,
+    "calibration_intercept": -2.647068460064955
+  },
+  {
+    "model_id": "gat__local93__original__seed43",
+    "run_id": "gat__local93__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9175583124160767,
+        "fpr_threshold": 0.9694343209266663,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5003830636725582,
+        "fpr_threshold": 0.7911076362222773,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.270119446481333,
+    "calibration_intercept": -3.0589787784291116
+  },
+  {
+    "model_id": "gat__local93__original__seed44",
+    "run_id": "gat__local93__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8515087962150574,
+        "fpr_threshold": 0.9617520570755005,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.3792428672441438,
+        "fpr_threshold": 0.818685725890141,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.3531688391438677,
+    "calibration_intercept": -2.856050241737473
+  },
+  {
+    "model_id": "sage_gru__local93__original__seed42",
+    "run_id": "sage_gru__local93__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9344930052757263,
+        "fpr_threshold": 0.9740644693374634,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5910161906529114,
+        "fpr_threshold": 0.843024356193392,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.356112338617716,
+    "calibration_intercept": -3.2361711696617896
+  },
+  {
+    "model_id": "sage_gru__local93__original__seed43",
+    "run_id": "sage_gru__local93__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9307588338851929,
+        "fpr_threshold": 0.971291184425354,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.6172335608412337,
+        "fpr_threshold": 0.8480127811631248,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.3448023706451173,
+    "calibration_intercept": -3.016517254618348
+  },
+  {
+    "model_id": "sage_gru__local93__original__seed44",
+    "run_id": "sage_gru__local93__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9244843125343323,
+        "fpr_threshold": 0.9821075797080994,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5315147679757969,
+        "fpr_threshold": 0.8825969378475563,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.260327576444232,
+    "calibration_intercept": -3.0307627070642993
+  },
+  {
+    "model_id": "graphsage__published165__original__seed42",
+    "run_id": "graphsage__published165__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8573095202445984,
+        "fpr_threshold": 0.985787034034729,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.3147902432416872,
+        "fpr_threshold": 0.7798783303685768,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.8350935820741907,
+    "calibration_intercept": -2.2752426042380676
+  },
+  {
+    "model_id": "graphsage__published165__original__seed43",
+    "run_id": "graphsage__published165__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8929809927940369,
+        "fpr_threshold": 0.986754834651947,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.4034499039238504,
+        "fpr_threshold": 0.8294767609202597,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.9012443689864962,
+    "calibration_intercept": -2.30315391150374
+  },
+  {
+    "model_id": "graphsage__published165__original__seed44",
+    "run_id": "graphsage__published165__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8815789222717285,
+        "fpr_threshold": 0.9861767888069153,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.457150334383845,
+        "fpr_threshold": 0.836481054767126,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7982659583222297,
+    "calibration_intercept": -1.7743131009625677
+  },
+  {
+    "model_id": "gat__published165__original__seed42",
+    "run_id": "gat__published165__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9144505858421326,
+        "fpr_threshold": 0.982961118221283,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.4368644289432103,
+        "fpr_threshold": 0.8160672402953771,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.0343915619306123,
+    "calibration_intercept": -2.704608051472409
+  },
+  {
+    "model_id": "gat__published165__original__seed43",
+    "run_id": "gat__published165__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.946105420589447,
+        "fpr_threshold": 0.9838123917579651,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.573208897113162,
+        "fpr_threshold": 0.8123971824065755,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.9427016508104259,
+    "calibration_intercept": -2.4061908138490025
+  },
+  {
+    "model_id": "gat__published165__original__seed44",
+    "run_id": "gat__published165__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9115796089172363,
+        "fpr_threshold": 0.9788079261779785,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.46779185532236206,
+        "fpr_threshold": 0.7982002540358981,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.0029751062221877,
+    "calibration_intercept": -2.4690281288276696
+  },
+  {
+    "model_id": "sage_gru__published165__original__seed42",
+    "run_id": "sage_gru__published165__original__seed42__candidate0",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.7745468020439148,
+        "fpr_threshold": 0.9855316877365112,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.30297515912241063,
+        "fpr_threshold": 0.8037205416776135,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7508670553224212,
+    "calibration_intercept": -1.7598643035271133
+  },
+  {
+    "model_id": "sage_gru__published165__original__seed43",
+    "run_id": "sage_gru__published165__original__seed43__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8697330951690674,
+        "fpr_threshold": 0.9775295257568359,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.2830175836907691,
+        "fpr_threshold": 0.7947048437612052,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.2181381068220816,
+    "calibration_intercept": -3.2423001467118766
+  },
+  {
+    "model_id": "sage_gru__published165__original__seed44",
+    "run_id": "sage_gru__published165__original__seed44__selected",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8965632319450378,
+        "fpr_threshold": 0.9736992716789246,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.4198813504560653,
+        "fpr_threshold": 0.8336154090024108,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.3325550943146995,
+    "calibration_intercept": -3.201057287952657
+  },
+  {
+    "model_id": "graphsage__conservative18__self_only__seed42",
+    "run_id": "graphsage__conservative18__self_only__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.688681960105896,
+        "fpr_threshold": 0.6900966167449951,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5207835798213284,
+        "fpr_threshold": 0.5279962899886512,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 4.377637239718283,
+    "calibration_intercept": -3.392506596279359
+  },
+  {
+    "model_id": "graphsage__conservative18__rewired__seed42",
+    "run_id": "graphsage__conservative18__rewired__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8445888161659241,
+        "fpr_threshold": 0.943511962890625,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.4210552220118669,
+        "fpr_threshold": 0.630150608013595,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7581961636803357,
+    "calibration_intercept": -1.601898714210776
+  },
+  {
+    "model_id": "graphsage__conservative18__reversed__seed42",
+    "run_id": "graphsage__conservative18__reversed__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9334359765052795,
+        "fpr_threshold": 0.953044056892395,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5252379323463406,
+        "fpr_threshold": 0.5822332615438003,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.6245163789223752,
+    "calibration_intercept": -1.548128229635572
+  },
+  {
+    "model_id": "graphsage__local93__self_only__seed42",
+    "run_id": "graphsage__local93__self_only__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8312121629714966,
+        "fpr_threshold": 0.9813891053199768,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.28872834573482486,
+        "fpr_threshold": 0.8729346073904111,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.1930622114017955,
+    "calibration_intercept": -2.803598449392277
+  },
+  {
+    "model_id": "graphsage__local93__rewired__seed42",
+    "run_id": "graphsage__local93__rewired__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.9208735227584839,
+        "fpr_threshold": 0.9823505878448486,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.5117215378536777,
+        "fpr_threshold": 0.8422899660930679,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.0405753597967213,
+    "calibration_intercept": -2.5069637323636664
+  },
+  {
+    "model_id": "graphsage__published165__self_only__seed42",
+    "run_id": "graphsage__published165__self_only__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.8928439021110535,
+        "fpr_threshold": 0.9275712966918945,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.42681979315163626,
+        "fpr_threshold": 0.5974576719555095,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 1.6045938873852035,
+    "calibration_intercept": -3.6967787397070557
+  },
+  {
+    "model_id": "graphsage__published165__rewired__seed42",
+    "run_id": "graphsage__published165__rewired__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.710694432258606,
+        "fpr_threshold": 0.979129433631897,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.3470215472445336,
+        "fpr_threshold": 0.8226439006125783,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7345226332740966,
+    "calibration_intercept": -1.2923162217724982
+  },
+  {
+    "model_id": "graphsage__published165__reversed__seed42",
+    "run_id": "graphsage__published165__reversed__seed42__control",
+    "rules": {
+      "raw": {
+        "f1_threshold": 0.7773042321205139,
+        "fpr_threshold": 0.9794204831123352,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      },
+      "platt": {
+        "f1_threshold": 0.41914865309380833,
+        "fpr_threshold": 0.852973159563844,
+        "target_fpr": 0.01,
+        "source_steps": [
+          32,
+          33
+        ]
+      }
+    },
+    "calibration_slope": 0.7978073768531476,
+    "calibration_intercept": -1.3235485175977957
+  }
+]

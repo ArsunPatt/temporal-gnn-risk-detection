@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "mode": "QUICK_RUN",
+  "exploratory": true,
+  "seconds": 34.322,
+  "main_models": 9,
+  "controls": 8,
+  "total_fit_candidates": 17,
+  "inline_figures": 10,
+  "maximum_snapshot": 34,
+  "final_test_predictions_computed": false,
+  "outputs_isolated_from_full_run": true
+}

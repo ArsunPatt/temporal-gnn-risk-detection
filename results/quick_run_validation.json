@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "mode": "QUICK_RUN",
+  "exploratory": true,
+  "seconds": 20.34,
+  "cutoffs": 49,
+  "figures": 14,
+  "research_results": false
+}

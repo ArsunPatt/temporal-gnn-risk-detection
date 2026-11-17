@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "stage": 3,
+  "main_notebooks": 5,
+  "substantive_notebooks": 3,
+  "notebooks": [
+    {
+      "notebook": "01_data_exploration.ipynb",
+      "executed_code_cells": 20,
+      "inline_figures": 14
+    },
+    {
+      "notebook": "02_ml_baselines.ipynb",
+      "executed_code_cells": 14,
+      "inline_figures": 11
+    },
+    {
+      "notebook": "03_graph_temporal_models.ipynb",
+      "executed_code_cells": 15,
+      "inline_figures": 10
+    }
+  ],
+  "png_figures": 35,
+  "svg_figures": 35,
+  "earlier_notebooks_figures_stage2_results_sources_unchanged": true,
+  "raw_hashes_match_stage1": true,
+  "selected_main_models": 27,
+  "selected_controls": 8,
+  "candidate_fits": 44,
+  "tests": "98 passed, 1 upstream warning",
+  "final_test_predictions_computed": false,
+  "private_data_models_and_environment_excluded": true
+}

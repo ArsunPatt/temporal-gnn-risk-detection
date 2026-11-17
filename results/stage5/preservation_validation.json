@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "original_files_checked": 432,
+  "original_files_unchanged": 419,
+  "intentional_changes": [
+    ".gitignore",
+    "PROJECT_STATUS.md",
+    "README.md",
+    "notebooks/04_robustness_analysis.ipynb",
+    "notebooks/05_research_results.ipynb",
+    "reports/references.bib",
+    "reports/research_paper.md",
+    "reports/research_protocol.md",
+    "results/publication_validation.json",
+    "tests/conftest.py",
+    "tests/test_baseline_artifacts.py",
+    "tests/test_graph_artifacts.py",
+    "tests/test_stage4_artifacts.py"
+  ],
+  "original_frozen_protocol_unchanged": true,
+  "raw_data_and_models_unchanged": true,
+  "original_stage1_to_4_predictions_metrics_and_figures_unchanged": true,
+  "original_analytic_helpers_unchanged": true,
+  "notebooks01_to03_unchanged": true,
+  "new_scientific_model_fits": 0,
+  "new_final_test_inference": false,
+  "new_robustness_experiments": false
+}

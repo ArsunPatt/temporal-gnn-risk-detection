@@ -1,0 +1,4 @@
+architecture,feature_configuration,pca_fit_nodes,displayed_nodes,pc1_training_variance,pc2_training_variance
+graphsage,conservative18,2000,337,0.3450317978858948,0.2749239206314087
+gat,conservative18,2000,337,0.5221293568611145,0.1838216483592987
+sage_gru,conservative18,2000,337,0.3894560635089874,0.23377415537834167

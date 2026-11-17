@@ -1,0 +1,5 @@
+feature_configuration,dimensions,includes_time,includes_published_neighborhood,certified_leakage_free
+conservative18,18,False,False,False
+local93,93,False,False,False
+published165,165,False,True,False
+published165_plus_time,166,True,True,False

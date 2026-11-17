@@ -1,0 +1,13 @@
+{
+  "protocol_sha256": "956cd79318c210e57ee5ec6d68bd2a56762afb512cc7e3bda9a1f7f74a2956e0",
+  "model_count": 33,
+  "maximum_snapshot": 49,
+  "parameter_updates": 0,
+  "calibrator_fits": 0,
+  "prediction_sha256": {
+    "test_raw_predictions.csv": "e26f9aef691308e2fcda93afd35347a8584db5bbc0264321a6fe0678ab25fce9",
+    "test_platt_predictions.csv": "224220b7edc9ac4447ca5503ae5f326fe7758d987d145a71969230e54dc6f6e4",
+    "test_native_scores.npz": "abd8ec7d45105e6e217e1c7678a9d17866065fb00b33fe25865ce94edae60354"
+  },
+  "completed_at_utc": "2026-11-08T19:13:41.000059+00:00"
+}

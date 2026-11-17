@@ -1,0 +1,2 @@
+reference,n_labeled,n_illicit,prevalence,average_precision,roc_auc,precision,recall,f1,false_positive_rate,brier_score,tn,fp,fn,tp
+constant training prevalence,515,37,0.07184466019417475,0.07184466019417475,0.5,0.0,0.0,0.0,0.0,0.06805079634095858,478,0,37,0

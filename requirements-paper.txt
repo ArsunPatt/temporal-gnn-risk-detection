@@ -1,0 +1,3 @@
+# Optional PDF authoring environment; research dependency lock stays unchanged.
+reportlab==4.4.9
+pypdf==6.21.4

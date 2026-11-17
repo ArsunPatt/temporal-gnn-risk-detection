@@ -1,0 +1,9 @@
+check,count
+Missing feature values,0
+Non-finite feature values (including missing),0
+Duplicate feature records,0
+Duplicate class records,0
+Duplicate edges,0
+Duplicate feature vectors (distinct IDs),34
+Self loops,0
+Cross-time edges,0

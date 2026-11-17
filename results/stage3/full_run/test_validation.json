@@ -1,0 +1,9 @@
+{
+  "command": "python -m pytest -q --disable-warnings",
+  "exit_code": 0,
+  "seconds": 19.247,
+  "warning_context": "One upstream PyG 2.7 DeprecationWarning for its unused distributed module; warning count retained in pytest output",
+  "test_openmp_threads": 1,
+  "graph_training_cpu_threads": 2,
+  "initial_combined_suite_deadlock": "resolved by single-thread OpenMP test harness; research notebooks unaffected"
+}

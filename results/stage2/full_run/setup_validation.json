@@ -1,0 +1,11 @@
+{
+  "python": "3.11.1",
+  "architecture": "arm64",
+  "system": "Darwin",
+  "native_openmp": "libomp 21.1.0",
+  "native_openmp_installed_in_stage2": true,
+  "initial_missing_library_resolved": true,
+  "lightgbm_fit_and_artifact_tests": "passed",
+  "device": "cpu",
+  "torch_or_mps_required_for_tabular_fitting": false
+}

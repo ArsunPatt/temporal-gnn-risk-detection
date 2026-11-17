@@ -1,0 +1,16 @@
+{
+  "protocol_sha256": "956cd79318c210e57ee5ec6d68bd2a56762afb512cc7e3bda9a1f7f74a2956e0",
+  "models": 33,
+  "known_labels": 16670,
+  "scenarios": 24,
+  "robustness_rows": 720,
+  "edge_audit_rows": 1080,
+  "established_at_utc": "2026-11-08T20:10:18.844485+00:00",
+  "scope": "Stage 5 cache validation; cannot retroactively establish original code/input freeze",
+  "status": "passed",
+  "cache_manifest_sha256": "2d728ce072f98992bac61759a4d67449ff5ea160bfe2a55f2b00a44de503d635",
+  "new_model_inference": false,
+  "local_probability_metrics_reproduced": true,
+  "edge_audit_scope": "Exact recorded budgets and settings; historical per-scenario adjacency identities were not saved",
+  "recovery_checks": "Synthetic missing/partial table recovery passed; missing or corrupt probabilities rejected"
+}

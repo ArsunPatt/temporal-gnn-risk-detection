@@ -1,0 +1,57 @@
+{
+  "review_date": "2026-11-09",
+  "sources": [
+    {
+      "reference": "Weber et al. 2019",
+      "url": "https://arxiv.org/abs/1908.02591",
+      "verification": "Primary arXiv title, authors and 2019 submission verified"
+    },
+    {
+      "reference": "Hamilton et al. 2017",
+      "url": "https://arxiv.org/abs/1706.02216",
+      "verification": "Primary arXiv metadata verifies NIPS 2017 GraphSAGE reference"
+    },
+    {
+      "reference": "Velickovic et al. 2018",
+      "url": "https://arxiv.org/abs/1710.10903",
+      "verification": "Primary arXiv metadata; ICLR 2018 conference reference"
+    },
+    {
+      "reference": "Ke et al. 2017",
+      "url": "https://www.microsoft.com/en-us/research/project/lightgbm/publications/",
+      "verification": "Primary author publication record; correct author spelling Finley retained from paper citation"
+    },
+    {
+      "reference": "Cho et al. 2014",
+      "url": "https://aclanthology.org/D14-1179/",
+      "verification": "Primary ACL Anthology author/year/pages and DOI 10.3115/v1/D14-1179 verified"
+    },
+    {
+      "reference": "Safar et al. 2026",
+      "url": "https://www.fit.vut.cz/research/result/c212190/.en",
+      "verification": "Author institution and public author repository verify title/authors/volume/article number/DOI. DOI resolver not accessible in this review; previously obtained paper text checked locally.",
+      "doi": "10.1016/j.fsidi.2026.302124"
+    },
+    {
+      "reference": "Independent feature semantics",
+      "url": "https://github.com/nesfit/DeanonymizedEllipticBitcoinDataset",
+      "verification": "Author documentation accessed; source validity limitations retained"
+    },
+    {
+      "reference": "AP definition",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html",
+      "verification": "Primary documentation; research pins sklearn 1.7.2 rather than claiming the live docs version is installed"
+    },
+    {
+      "reference": "Circular block convention",
+      "url": "https://bashtage.github.io/arch/bootstrap/generated/arch.bootstrap.CircularBlockBootstrap.html",
+      "verification": "Primary documentation accessed in Stage 4; transient unsuccessful refresh in Stage 5; no arch dependency added"
+    },
+    {
+      "reference": "Original Elliptic dataset",
+      "url": "https://www.kaggle.com/datasets/ellipticco/elliptic-data-set",
+      "verification": "Stage 1 source metadata/license record retained; original local CSV hashes unchanged"
+    }
+  ],
+  "cached_safar_pdf_sha256": "db095b7f1b71fbedcde956125d1242e3055650bf4b97dbf99816788904fb63e5"
+}

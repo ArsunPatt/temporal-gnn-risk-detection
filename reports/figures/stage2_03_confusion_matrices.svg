@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="777.706293pt" height="336.274293pt" viewBox="0 0 777.706293 336.274293" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-08T22:20:36.208682</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 336.274293 
+L 777.706293 336.274293 
+L 777.706293 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.78593 293.488364 
+L 381.310293 293.488364 
+L 381.310293 75.691909 
+L 42.78593 75.691909 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 127.417021 293.488364 
+L 127.417021 75.691909 
+" clip-path="url(#p7d30b3094d)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="127.417021" y="311.255637" transform="rotate(-0 127.417021 311.255637)">Licit</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <path d="M 296.679202 293.488364 
+L 296.679202 75.691909 
+" clip-path="url(#p7d30b3094d)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="296.679202" y="311.255637" transform="rotate(-0 296.679202 311.255637)">Illicit</text>
+     </g>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="212.048112" y="326.570043" transform="rotate(-0 212.048112 326.570043)">Predicted class</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <path d="M 42.78593 130.141023 
+L 381.310293 130.141023 
+" clip-path="url(#p7d30b3094d)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(30.990367 140.410597) rotate(-90)">Licit</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <path d="M 42.78593 239.03925 
+L 381.310293 239.03925 
+" clip-path="url(#p7d30b3094d)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(30.990367 250.268016) rotate(-90)">Illicit</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="16.218844" y="184.590136" transform="rotate(-90 16.218844 184.590136)">Published known label</text>
+    </g>
+   </g>
+   <g id="QuadMesh_1">
+    <path d="M 42.78593 75.691909 
+L 212.048112 75.691909 
+L 212.048112 184.590136 
+L 42.78593 184.590136 
+L 42.78593 75.691909 
+" clip-path="url(#p7d30b3094d)" style="fill: #08306b"/>
+    <path d="M 212.048112 75.691909 
+L 381.310293 75.691909 
+L 381.310293 184.590136 
+L 212.048112 184.590136 
+L 212.048112 75.691909 
+" clip-path="url(#p7d30b3094d)" style="fill: #e4eff9"/>
+    <path d="M 42.78593 184.590136 
+L 212.048112 184.590136 
+L 212.048112 293.488364 
+L 42.78593 293.488364 
+L 42.78593 184.590136 
+" clip-path="url(#p7d30b3094d)" style="fill: #f7fbff"/>
+    <path d="M 212.048112 184.590136 
+L 381.310293 184.590136 
+L 381.310293 293.488364 
+L 212.048112 293.488364 
+L 212.048112 184.590136 
+" clip-path="url(#p7d30b3094d)" style="fill: #eef5fc"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="127.417021" y="133.39832" transform="rotate(-0 127.417021 133.39832)">430</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="296.679202" y="133.39832" transform="rotate(-0 296.679202 133.39832)">48</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="127.417021" y="242.296547" transform="rotate(-0 127.417021 242.296547)">8</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="296.679202" y="242.296547" transform="rotate(-0 296.679202 242.296547)">29</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="212.048112" y="69.691909" transform="rotate(-0 212.048112 69.691909)">Logistic Regression</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 431.98193 293.488364 
+L 770.506293 293.488364 
+L 770.506293 75.691909 
+L 431.98193 75.691909 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 516.613021 293.488364 
+L 516.613021 75.691909 
+" clip-path="url(#p6512604244)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="516.613021" y="311.255637" transform="rotate(-0 516.613021 311.255637)">Licit</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_6">
+      <path d="M 685.875202 293.488364 
+L 685.875202 75.691909 
+" clip-path="url(#p6512604244)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="685.875202" y="311.255637" transform="rotate(-0 685.875202 311.255637)">Illicit</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="601.244112" y="326.570043" transform="rotate(-0 601.244112 326.570043)">Predicted class</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <path d="M 431.98193 130.141023 
+L 770.506293 130.141023 
+" clip-path="url(#p6512604244)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(420.186367 140.410597) rotate(-90)">Licit</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <path d="M 431.98193 239.03925 
+L 770.506293 239.03925 
+" clip-path="url(#p6512604244)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 11.55px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; fill: #262626" transform="translate(420.186367 250.268016) rotate(-90)">Illicit</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="405.414844" y="184.590136" transform="rotate(-90 405.414844 184.590136)">Published known label</text>
+    </g>
+   </g>
+   <g id="QuadMesh_2">
+    <path d="M 431.98193 75.691909 
+L 601.244112 75.691909 
+L 601.244112 184.590136 
+L 431.98193 184.590136 
+L 431.98193 75.691909 
+" clip-path="url(#p6512604244)" style="fill: #08306b"/>
+    <path d="M 601.244112 75.691909 
+L 770.506293 75.691909 
+L 770.506293 184.590136 
+L 601.244112 184.590136 
+L 601.244112 75.691909 
+" clip-path="url(#p6512604244)" style="fill: #f7fbff"/>
+    <path d="M 431.98193 184.590136 
+L 601.244112 184.590136 
+L 601.244112 293.488364 
+L 431.98193 293.488364 
+L 431.98193 184.590136 
+" clip-path="url(#p6512604244)" style="fill: #f7fbff"/>
+    <path d="M 601.244112 184.590136 
+L 770.506293 184.590136 
+L 770.506293 293.488364 
+L 601.244112 293.488364 
+L 601.244112 184.590136 
+" clip-path="url(#p6512604244)" style="fill: #eaf2fb"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="516.613021" y="133.39832" transform="rotate(-0 516.613021 133.39832)">476</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="685.875202" y="133.39832" transform="rotate(-0 685.875202 133.39832)">2</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="516.613021" y="242.296547" transform="rotate(-0 516.613021 242.296547)">2</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="685.875202" y="242.296547" transform="rotate(-0 685.875202 242.296547)">35</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 12.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="601.244112" y="69.691909" transform="rotate(-0 601.244112 69.691909)">LightGBM</text>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 15.12px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle; fill: #262626" x="388.114293" y="18.206887" transform="rotate(-0 388.114293 18.206887)">Step-34 confusion counts · Published 165 · F1 thresholds chosen on 32–33</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7d30b3094d">
+   <rect x="42.78593" y="75.691909" width="338.524364" height="217.796455"/>
+  </clipPath>
+  <clipPath id="p6512604244">
+   <rect x="431.98193" y="75.691909" width="338.524364" height="217.796455"/>
+  </clipPath>
+ </defs>
+</svg>

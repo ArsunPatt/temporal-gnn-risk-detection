@@ -1,0 +1,4 @@
+model_id,feature_configuration,average_precision,brier_score
+lightgbm__conservative18__balanced__seed42,conservative18,0.7724682675226382,0.0651865364978617
+lightgbm__local93__balanced__seed42,local93,0.9801258067474284,0.0113547608628826
+lightgbm__published165__ordinary__seed42,published165,0.99189921628946,0.0050874974502879

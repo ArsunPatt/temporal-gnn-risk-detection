@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "mode": "QUICK_RUN",
+  "exploratory": true,
+  "seconds": 17.097,
+  "candidate_fits": 16,
+  "model_bundles": 16,
+  "inline_figures": 11,
+  "max_prediction_step": 34,
+  "final_test_predictions_computed": false,
+  "outputs_isolated_from_full_run": true
+}

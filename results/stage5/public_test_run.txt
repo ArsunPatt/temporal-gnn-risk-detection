@@ -1,0 +1,8 @@
+s....................................................................... [ 55%]
+..................ss.....................................s               [100%]
+=========================== short test summary info ============================
+SKIPPED [1] tests/conftest.py:44: Private artifacts unavailable (21 files; e.g. elliptic_txs_features.csv, elliptic_txs_classes.csv, elliptic_txs_edgelist.csv). Public packages intentionally omit data/checkpoints/predictions; this skip is not successful private-artifact validation.
+SKIPPED [1] tests/test_data_protocol.py:215: Original CSVs absent: synthetic unit tests are not dataset validation
+SKIPPED [1] tests/conftest.py:44: Private artifacts unavailable (78 files; e.g. elliptic_txs_features.csv, elliptic_txs_classes.csv, elliptic_txs_edgelist.csv). Public packages intentionally omit data/checkpoints/predictions; this skip is not successful private-artifact validation.
+SKIPPED [1] tests/conftest.py:44: Private artifacts unavailable (91 files; e.g. lightgbm__conservative18__balanced__seed42.joblib, lightgbm__local93__balanced__seed42.joblib, lightgbm__published165__ordinary__seed42.joblib). Public packages intentionally omit data/checkpoints/predictions; this skip is not successful private-artifact validation.
+126 passed, 4 skipped, 1 warning in 4.93s

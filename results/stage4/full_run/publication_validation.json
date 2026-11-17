@@ -1,0 +1,56 @@
+{
+  "stage": 4,
+  "status": "passed",
+  "main_notebooks": 5,
+  "substantive_notebooks": 4,
+  "notebooks": [
+    {
+      "notebook": "01_data_exploration.ipynb",
+      "executed_code_cells": 20,
+      "inline_figures": 14,
+      "bytes": 1161991
+    },
+    {
+      "notebook": "02_ml_baselines.ipynb",
+      "executed_code_cells": 14,
+      "inline_figures": 11,
+      "bytes": 912166
+    },
+    {
+      "notebook": "03_graph_temporal_models.ipynb",
+      "executed_code_cells": 15,
+      "inline_figures": 10,
+      "bytes": 1137864
+    },
+    {
+      "notebook": "04_robustness_analysis.ipynb",
+      "executed_code_cells": 12,
+      "inline_figures": 16,
+      "bytes": 2489324
+    }
+  ],
+  "new_figures": 16,
+  "png_figures": 51,
+  "svg_figures": 51,
+  "earlier_files_preserved_by_sha256": 269,
+  "raw_files_and_original_models_unchanged": true,
+  "frozen_before_first_test_inference": true,
+  "model_artifact_hashes_match_frozen_manifest": true,
+  "reused_models": 33,
+  "new_fits": 0,
+  "common_test_population": 16670,
+  "test_illicit": 1083,
+  "robustness_evaluations": 720,
+  "bootstrap_pairs": 12,
+  "bootstrap_replications": 1000,
+  "tests_passed": 115,
+  "tests_failed": 0,
+  "warnings": 1,
+  "skips": 0,
+  "quick_run_cached_review_verified": true,
+  "notebook_error_or_stderr_outputs": 0,
+  "public_machine_path_scan": "passed",
+  "private_artifacts_git_ignore_check": "passed",
+  "raw_derived_data_or_models_in_package": false,
+  "stage5_started": false
+}

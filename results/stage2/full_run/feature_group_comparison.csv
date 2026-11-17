@@ -1,0 +1,17 @@
+family,feature_configuration,role,average_precision
+Logistic Regression,conservative18,Selection 30–31 (reused),0.21407718516972607
+Logistic Regression,conservative18,Later validation 34,0.16455424134424537
+LightGBM,conservative18,Selection 30–31 (reused),0.6585112872719401
+LightGBM,conservative18,Later validation 34,0.7724682675226382
+Logistic Regression,local93,Selection 30–31 (reused),0.5372150327143216
+Logistic Regression,local93,Later validation 34,0.4275015766294478
+LightGBM,local93,Selection 30–31 (reused),0.9655410077615019
+LightGBM,local93,Later validation 34,0.9801258067474283
+Logistic Regression,published165,Selection 30–31 (reused),0.5746594858767887
+Logistic Regression,published165,Later validation 34,0.5507831296554357
+LightGBM,published165,Selection 30–31 (reused),0.9816797526188152
+LightGBM,published165,Later validation 34,0.99189921628946
+Logistic Regression,published165_plus_time,Selection 30–31 (reused),0.5746030036918816
+Logistic Regression,published165_plus_time,Later validation 34,0.5512550301273362
+LightGBM,published165_plus_time,Selection 30–31 (reused),0.9807791260473129
+LightGBM,published165_plus_time,Later validation 34,0.9929975429975428

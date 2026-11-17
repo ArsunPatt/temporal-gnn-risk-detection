@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "mode": "QUICK_RUN",
+  "exploratory": true,
+  "cached_review_only": true,
+  "new_inference": false,
+  "new_model_fits": 0,
+  "official_outputs_unchanged": true,
+  "seconds": 18.377,
+  "inline_figures": 16
+}

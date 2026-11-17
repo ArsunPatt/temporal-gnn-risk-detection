@@ -1,0 +1,16 @@
+{
+  "command": "python -m pytest -q --disable-warnings",
+  "exit_code": 0,
+  "seconds": 27.603,
+  "timeout_seconds": 90,
+  "openmp_threads": 1,
+  "retraining_during_tests": false,
+  "passed": 115,
+  "failed": 0,
+  "skipped": 0,
+  "warnings": 1,
+  "pytest_seconds": 26.73,
+  "stalled": false,
+  "warning": "Upstream PyG distributed-module deprecation",
+  "previous_openmp_fix_preserved": true
+}

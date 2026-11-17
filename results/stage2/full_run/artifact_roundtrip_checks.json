@@ -1,0 +1,82 @@
+[
+  {
+    "model_id": "logistic_regression__conservative18__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "139b094cdcbc8411450309fcf6ddea08a06674bd5cebe55bbf330c9363e89918"
+  },
+  {
+    "model_id": "logistic_regression__conservative18__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "4bc15000c875a94e35f8baac8f3423a8ce3d42210cbc0ba1733e5f7353a62267"
+  },
+  {
+    "model_id": "lightgbm__conservative18__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "1b25399e4a42bffc68f617ef83f6be34a132a3794fbe822d483548557eee06cf"
+  },
+  {
+    "model_id": "lightgbm__conservative18__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "899f0518247051d3784c72acb1671bf717dbd751e35a8003701b0e8fb8124336"
+  },
+  {
+    "model_id": "logistic_regression__local93__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "d21d24f45b26a3016a3754e50c14651893c0e84b699ffa65f4a4edc6622fb36a"
+  },
+  {
+    "model_id": "logistic_regression__local93__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "c3d2c4b50846c214b7065aff38097cbd215027dab5d176d3cc07949b71a6d60f"
+  },
+  {
+    "model_id": "lightgbm__local93__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "9898f717c41b20ade99a8ccbd5f76721f2053e6d7a470fe3f28ed9700a5a17f2"
+  },
+  {
+    "model_id": "lightgbm__local93__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "5afcd1c259c908749826dec0b5f2f9ad2c873f32085e30169e72ba4822a1a74c"
+  },
+  {
+    "model_id": "logistic_regression__published165__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "1dfd11950c7ca8a91e79396df1b61dd54386835167b2a241f2d710e080040ef3"
+  },
+  {
+    "model_id": "logistic_regression__published165__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "80e3ac11288df33ee6c93664fbc09dbbb0e2666516703004866b4b1a71047cac"
+  },
+  {
+    "model_id": "lightgbm__published165__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "88c568451db78c0c21f49a3b006d5cbd5f594ee54bc5a4d8a78b5b183dbc0569"
+  },
+  {
+    "model_id": "lightgbm__published165__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "b114c4793dd4b0492bf3ff2fb5da9c967aff72cde2be741e5b35f2d96da514fc"
+  },
+  {
+    "model_id": "logistic_regression__published165_plus_time__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "355befbfbb83c8c0395ebe9427622cd608a7aa7cf7a90f7562e0ead2d5709e83"
+  },
+  {
+    "model_id": "logistic_regression__published165_plus_time__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "5d9df6f84c53f51d1995aff86031d134ce1366a810f1f825f16ffb36fce8333b"
+  },
+  {
+    "model_id": "lightgbm__published165_plus_time__ordinary__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "210024819de3a349b69cab4bc9d0acfa319ee2265025295aa9454e954987245a"
+  },
+  {
+    "model_id": "lightgbm__published165_plus_time__balanced__seed42",
+    "roundtrip_predictions_identical": true,
+    "sha256": "f03123c2c06275ab2fdc88cb2d49ce2f242fed1f0d9c424edc56db78e44943d2"
+  }
+]

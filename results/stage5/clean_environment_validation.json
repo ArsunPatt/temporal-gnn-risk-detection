@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "clean_virtual_environment": true,
+  "system_site_packages": false,
+  "dependencies_installed_from": "requirements-lock.txt",
+  "python": "3.11.1",
+  "private_raw_data_present": false,
+  "private_models_present": false,
+  "private_prediction_records_present": false,
+  "pip_check": "No broken requirements found.",
+  "notebook05_executed": true,
+  "notebook05_code_cells": 10,
+  "notebook05_inline_figures": 19,
+  "notebook05_bytes": 2855813,
+  "new_model_fits": 0,
+  "new_inference": false,
+  "full_scientific_pipeline_replayed": false,
+  "seconds": 39.451,
+  "test_timeout_seconds": 90,
+  "passed": 126,
+  "failed": 0,
+  "skipped": 4,
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "torch": "2.8.0",
+    "torch-geometric": "2.7.0",
+    "scikit-learn": "1.7.2",
+    "lightgbm": "4.6.0",
+    "pytest": "8.4.2"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "mps_available": true,
+  "mps_built": true,
+  "implicit_mps_fallback": "0",
+  "checks": [
+    {
+      "architecture": "graphsage",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0177
+    },
+    {
+      "architecture": "graphsage",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.2771
+    },
+    {
+      "architecture": "gat",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0322
+    },
+    {
+      "architecture": "gat",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.2094
+    },
+    {
+      "architecture": "sage_gru",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0216
+    },
+    {
+      "architecture": "sage_gru",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.0992
+    }
+  ],
+  "devices": {
+    "graphsage": "mps",
+    "gat": "mps",
+    "sage_gru": "mps"
+  },
+  "chosen_backends": {
+    "graphsage": "mps",
+    "gat": "mps",
+    "sage_gru": "cpu"
+  },
+  "backend_reasons": {
+    "graphsage": "Verified MPS",
+    "gat": "Verified MPS",
+    "sage_gru": "CPU faster on the measured snapshot workload"
+  },
+  "policy": "measured",
+  "timing_measurements": [
+    {
+      "architecture": "graphsage",
+      "device": "cpu",
+      "seconds_per_epoch": 0.15783170799841173,
+      "timed_epochs": 2
+    },
+    {
+      "architecture": "graphsage",
+      "device": "mps",
+      "seconds_per_epoch": 0.07039222950697877,
+      "timed_epochs": 2
+    },
+    {
+      "architecture": "gat",
+      "device": "cpu",
+      "seconds_per_epoch": 0.23991356199258007,
+      "timed_epochs": 2
+    },
+    {
+      "architecture": "gat",
+      "device": "mps",
+      "seconds_per_epoch": 0.12675133350421675,
+      "timed_epochs": 2
+    },
+    {
+      "architecture": "sage_gru",
+      "device": "cpu",
+      "seconds_per_epoch": 0.29808841648628004,
+      "timed_epochs": 2
+    },
+    {
+      "architecture": "sage_gru",
+      "device": "mps",
+      "seconds_per_epoch": 0.3657612285023788,
+      "timed_epochs": 2
+    }
+  ],
+  "parity_tolerances": {
+    "logits_rtol": 0.002,
+    "logits_atol": 0.0002,
+    "gradients_rtol": 0.003,
+    "gradients_atol": 5e-05
+  }
+}

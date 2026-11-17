@@ -1,0 +1,20 @@
+{
+  "src/baselines.py": "7d6aa4ad2c3d84b06a45c5d7c8afc795d96a0d3fe7c058fd4aae9654b2c6df9b",
+  "src/graph_hardware.py": "311bbcf5c84e6785465335dd5521048f2015a71513f625d009e8de865c2151b1",
+  "src/graph_learning.py": "0f20782e0929715527dcf09aac07eb115280233432fe8cf69ff8248695903b28",
+  "src/protocol.py": "0e0d3fe5a7e33c8d13140c60ecb788d09e62c8c42a8357843567704b0edd45b9",
+  "src/evaluation.py": "bfc358e60797dd5341aedef5a7934b89fda4e5328b1ba6bfe3f134067e2f68fd",
+  "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "src/robustness.py": "748d89fe32b31e270242318e39a9b2b3a741cdccdd8a75852be76ff7e4a5cc4f",
+  "src/environment.py": "c95b1fff27d4d38e5581b0bbbf941cef6f4681e1d6f4f591f03875e7afb23e6f",
+  "src/frozen_inference.py": "022aac79e08f29b9611841a8d1da14eff2faca065fcc8d8dcd8cd3dbe47f0e84",
+  "src/data.py": "9310e9cd29182ed12d9e80a7ffb5c60620fffd5d1d34c74b844e8a78cc17d1ac",
+  "tests/conftest.py": "b9929b31a80332ca54fc027e5c026f5b5fb7c8b9f859e6e8f1c76054d1b4d344",
+  "tests/test_baseline_artifacts.py": "5fbe57e623a796f0b3d8f1956e936eb49e89c8bfa667c767e27510a0e9580905",
+  "tests/test_graph_artifacts.py": "c7621b7c225dca49140fce40b70d60f01d6c56eaf2d9a87d2a6ef6b7ae53cabb",
+  "tests/test_robustness.py": "ebc12a2f508b14cec49641bcc34da88b96d7d39159b83d1648c81c7073d33e2d",
+  "tests/test_graph_learning.py": "2a3cf6baa1b1e7ed7aa83ac5c4cf3d9dcf2b94cc5a9e8954617e1b430fc1bef9",
+  "tests/test_baselines.py": "153187e55e15f54519b1142942a39c1ef44551672b6929c1295a80f9728d3d61",
+  "tests/test_data_protocol.py": "ee39f2020caf47e2b3adffd2939cdd32b83c32dcf4de96aced14fb80eb22664e",
+  "tests/test_stage4_artifacts.py": "7215a913724c4d8f43a8863c0f896d903cc2e02e1f9c5069891ff7bbc2bb4ea7"
+}

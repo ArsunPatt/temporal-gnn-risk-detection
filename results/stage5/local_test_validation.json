@@ -1,0 +1,10 @@
+{
+  "exit_code": 0,
+  "seconds": 31.151,
+  "timeout_seconds": 90,
+  "omp_threads": 1,
+  "scope": "Local saved artifacts; Stage 3 validation checkpoint replay and cached test metrics, not new final-test inference",
+  "passed": 130,
+  "failed": 0,
+  "skipped": 0
+}

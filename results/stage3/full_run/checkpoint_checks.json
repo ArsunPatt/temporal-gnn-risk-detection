@@ -1,0 +1,212 @@
+[
+  {
+    "run_id": "graphsage__conservative18__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__conservative18__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__conservative18__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__conservative18__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 5.960464477539062e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__conservative18__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__conservative18__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 1.4901161193847656e-07,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__conservative18__original__seed42__candidate0",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__conservative18__original__seed43__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__conservative18__original__seed44__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__local93__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 7.152557373046875e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__local93__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__local93__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 5.364418029785156e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__local93__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__local93__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__local93__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 7.152557373046875e-07,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__local93__original__seed42__candidate0",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__local93__original__seed43__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__local93__original__seed44__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__published165__original__seed42__candidate0",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__published165__original__seed43__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "gat__published165__original__seed44__selected",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__published165__original__seed42__candidate0",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__published165__original__seed43__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "sage_gru__published165__original__seed44__selected",
+    "same_backend": "cpu",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__conservative18__self_only__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__conservative18__rewired__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__conservative18__reversed__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__local93__self_only__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__local93__rewired__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__self_only__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 0.0,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__rewired__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 9.5367431640625e-07,
+    "passed": true
+  },
+  {
+    "run_id": "graphsage__published165__reversed__seed42__control",
+    "same_backend": "mps",
+    "maximum_logit_reload_difference": 4.76837158203125e-07,
+    "passed": true
+  }
+]

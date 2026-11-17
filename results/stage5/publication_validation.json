@@ -1,0 +1,88 @@
+{
+  "stage": 5,
+  "status": "passed",
+  "release_date": "2026-11-15",
+  "main_notebooks": 5,
+  "substantive_notebooks": 5,
+  "notebooks": [
+    {
+      "notebook": "01_data_exploration.ipynb",
+      "code_cells": 19,
+      "inline_figures": 13,
+      "bytes": 1052284
+    },
+    {
+      "notebook": "02_ml_baselines.ipynb",
+      "code_cells": 14,
+      "inline_figures": 11,
+      "bytes": 912166
+    },
+    {
+      "notebook": "03_graph_temporal_models.ipynb",
+      "code_cells": 15,
+      "inline_figures": 10,
+      "bytes": 1137864
+    },
+    {
+      "notebook": "04_robustness_analysis.ipynb",
+      "code_cells": 12,
+      "inline_figures": 16,
+      "bytes": 2492458
+    },
+    {
+      "notebook": "05_research_results.ipynb",
+      "code_cells": 10,
+      "inline_figures": 19,
+      "bytes": 2861115
+    }
+  ],
+  "inline_figure_appearances": 69,
+  "unique_png_figures": 56,
+  "unique_svg_figures": 56,
+  "new_stage5_figures": 6,
+  "final_narrative_distinct_figures": 19,
+  "pdf_pages": 13,
+  "pdf_rendered_and_visually_reviewed": true,
+  "local_tests_passed": 130,
+  "local_tests_failed": 0,
+  "local_skips": 0,
+  "clean_public_tests_passed": 132,
+  "clean_public_tests_failed": 0,
+  "clean_public_skips": 4,
+  "upstream_warnings_per_suite": 1,
+  "fresh_environment_installed_from_lock": true,
+  "new_scientific_model_fits": 0,
+  "new_final_test_inference": true,
+  "new_robustness_experiments": false,
+  "original_frozen_protocol_unchanged": true,
+  "original_models_data_predictions_metrics_figures_unchanged": false,
+  "cache_scenarios": 24,
+  "robustness_records_validated": 720,
+  "edge_audit_records_validated": 1080,
+  "late_lightgbm_165_detected": 4,
+  "late_illicit_labels": 169,
+  "late_recall": 0.023668639053254437,
+  "independent_private_inference_reproduction": false,
+  "fresh_full_scientific_reproduction": false,
+  "release_manifest_cannot_retroactively_establish_original_code_freeze": true,
+  "local_markdown_links_checked": 35,
+  "public_machine_path_scan": "passed",
+  "public_credential_pattern_scan": "passed",
+  "private_artifacts_ignored": true,
+  "github_push_performed": false,
+  "publication_revision": "final pre-publication corrections",
+  "frozen_results_and_original_inputs_preserved": true,
+  "publication_figure_changes": "Omitted labeled Stage 1 illustration and revised the findings card wording",
+  "local_frozen_replay": {
+    "passed": true,
+    "device": "CPU",
+    "models_replayed": 33,
+    "probability_variants": 66,
+    "maximum_absolute_pooled_ap_difference": 2.205304595659374e-06,
+    "maximum_absolute_probability_difference": 7.86528967178235e-07,
+    "absolute_tolerance": 1e-05,
+    "changed_frozen_f1_decisions": 0
+  },
+  "external_independent_inference_reproduction": false,
+  "final_test_inference_scope": "Read-only verification of 33 frozen models"
+}

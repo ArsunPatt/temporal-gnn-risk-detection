@@ -1,0 +1,69 @@
+{
+  "python": "3.11.1",
+  "system": "Darwin",
+  "architecture": "arm64",
+  "macos": "15.3",
+  "versions": {
+    "torch": "2.8.0",
+    "torch-geometric": "2.7.0",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "lightgbm": "4.6.0",
+    "matplotlib": "3.10.7",
+    "seaborn": "0.13.2",
+    "networkx": "3.5",
+    "jupyterlab": "4.4.10",
+    "pytest": "8.4.2",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "6.30.1",
+    "ipywidgets": "8.1.7"
+  },
+  "mps_built": true,
+  "mps_available": true,
+  "implicit_mps_fallback": "0",
+  "operations": [
+    {
+      "operation": "dense_linear",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0087
+    },
+    {
+      "operation": "dense_linear",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.1011
+    },
+    {
+      "operation": "SAGEConv_mean",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0034
+    },
+    {
+      "operation": "SAGEConv_mean",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.0258
+    },
+    {
+      "operation": "GATConv",
+      "device": "cpu",
+      "status": "passed",
+      "seconds": 0.0061
+    },
+    {
+      "operation": "GATConv",
+      "device": "mps",
+      "status": "passed",
+      "seconds": 0.0788
+    }
+  ],
+  "dense_linear_device": "mps",
+  "SAGEConv_mean_device": "mps",
+  "GATConv_device": "mps",
+  "lightgbm_native_fit": "passed_on_synthetic_smoke_data_not_a_research_result"
+}

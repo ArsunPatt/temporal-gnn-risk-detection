@@ -1,0 +1,19 @@
+cff-version: "1.2.0"
+message: "Cite the v1.0.0 research software using this metadata. MIT covers the software. The original manuscript and eligible original figures are available separately under CC BY 4.0."
+type: software
+title: "Temporal Graph Neural Networks for Risk Detection Under Distribution Shift"
+authors:
+  - given-names: Pattanapong
+    family-names: Jetjaratpong
+    orcid: "https://orcid.org/0009-0002-3218-5719"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/ArsunPatt/temporal-gnn-risk-detection"
+url: "https://github.com/ArsunPatt/temporal-gnn-risk-detection"
+keywords:
+  - "Bitcoin"
+  - "Elliptic dataset"
+  - "graph neural networks"
+  - "temporal distribution shift"
+  - "illicit transaction classification"
+  - "reproducible research"
