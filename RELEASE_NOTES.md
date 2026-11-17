@@ -2,7 +2,9 @@
 
 **Pattanapong Jetjaratpong** · Independent Researcher · [ORCID 0009-0002-3218-5719](https://orcid.org/0009-0002-3218-5719) · [GitHub repository](https://github.com/ArsunPatt/temporal-gnn-risk-detection)
 
-First versioned research software package for the original Elliptic Bitcoin benchmark. The accompanying independent historical study has not been peer-reviewed. Version 1.0.0 is pending public publication. It includes five completed notebooks covering Stages 1–5, 60 PNG/SVG figure pairs, an 11-page research manuscript, public aggregates, a pinned Python environment and release verification tools.
+First versioned research software package for the original Elliptic Bitcoin benchmark. The accompanying independent historical study has not been peer-reviewed. Version 1.0.0 is publicly available. It includes five completed notebooks covering Stages 1–5, 60 PNG/SVG figure pairs, an 11-page research manuscript, public aggregates, a pinned Python environment and release verification tools.
+
+[GitHub repository](https://github.com/ArsunPatt/temporal-gnn-risk-detection) · [v1.0.0 release](https://github.com/ArsunPatt/temporal-gnn-risk-detection/releases/tag/v1.0.0) · [Zenodo archive and DOI](https://doi.org/10.5281/zenodo.24323048)
 
 ## Findings
 

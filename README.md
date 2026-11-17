@@ -2,15 +2,23 @@
 
 **Pattanapong Jetjaratpong** · Independent Researcher · [ORCID 0009-0002-3218-5719](https://orcid.org/0009-0002-3218-5719) · [GitHub repository](https://github.com/ArsunPatt/temporal-gnn-risk-detection)
 
-A notebook-first research project on the **original Elliptic Bitcoin dataset**, comparing tabular, graph and historical-context learning under chronological evaluation. Built with pandas, scikit-learn, LightGBM, PyTorch and PyTorch Geometric for Apple Silicon. Version 1.0.0 is pending public publication and includes five completed notebooks covering Stages 1–5, 60 PNG/SVG figure pairs and an 11-page manuscript.
+A notebook-first research project on the **original Elliptic Bitcoin dataset**, comparing tabular, graph and historical-context learning under chronological evaluation. Built with pandas, scikit-learn, LightGBM, PyTorch and PyTorch Geometric for Apple Silicon. The published v1.0.0 release includes five completed notebooks covering Stages 1–5, 60 PNG/SVG figure pairs and an 11-page manuscript.
 
 **Main result:** LightGBM leads pooled test AP, but its 165-feature model detects only **4 of 169 known illicit transactions in steps 43–49 (2.37% recall)** at the frozen F1 threshold. Its pooled AP of **0.7866** therefore conceals a severe late-period operating-policy failure. No test-label threshold optimization was performed. The late-window diagnostic is post-hoc and descriptive.
 
 [Final results notebook](notebooks/05_research_results.ipynb) · [Paper](reports/research_paper.md) · [PDF](reports/research_paper.pdf) · [Reproducibility](reports/reproducibility.md) · [Quality report](reports/final_quality_report.md) · [Release notes](RELEASE_NOTES.md)
 
+[GitHub repository](https://github.com/ArsunPatt/temporal-gnn-risk-detection) · [v1.0.0 release](https://github.com/ArsunPatt/temporal-gnn-risk-detection/releases/tag/v1.0.0) · [Zenodo archive and DOI](https://doi.org/10.5281/zenodo.24323048)
+
 ## Research question and motivation
 
-Does graph learning improve future-period illicit detection over strong tabular models using the **same features and evaluation nodes**? Risk-screening decisions require ranking quality, threshold reliability and temporal stability. This project reports all three and keeps a negative graph result alongside the pooled winner's late failure.
+Does graph learning improve future-period illicit detection over strong tabular models using the **same features and evaluation nodes**? Risk-screening decisions require ranking quality, threshold reliability and temporal stability.
+
+Weber et al. (2019) reported that Random Forest outperformed GCN and Skip-GCN on illicit-class F1 and that performance deteriorated after time step 43. [Original Elliptic study, Table 1 and Figure 2](https://arxiv.org/abs/1908.02591)
+
+Maganti (2026) likewise reports a Random Forest advantage under its inductive training protocol and studies the effects of training-time exposure to test-period adjacency and of shuffling edges. [Related Elliptic preprint](https://arxiv.org/abs/2604.19514)
+
+This project contributes matched comparisons across the 18-, 93-, and 165-feature sets, evaluation at operating thresholds fixed before testing, a descriptive quantification of the late-period detection failure, and controlled robustness tests with feature and edge perturbations.
 
 This is an independent historical empirical benchmark and has not been peer-reviewed. Known labels are selected, unknown transactions are not negatives, and **none of the 18/93/165 feature groups is certified leakage-free**. Results do not establish causal graph benefits, real-time deployability or universal architecture superiority.
 
@@ -102,7 +110,7 @@ PROJECT_STATUS.md
 
 ## Installation and execution
 
-For a published copy of v1.0.0, clone the release tag. For the verified ZIP, extract it and start at the environment setup. Run physical archive verification before creating any local environment or cache inside the extracted directory. Use checkout mode in a Git repository.
+Use the v1.0.0 tag or the archived ZIP when verifying the published snapshot. For the verified ZIP, extract it and start at the environment setup. Run physical archive verification before creating any local environment or cache inside the extracted directory. Use checkout mode in a Git repository.
 
 ```bash
 git clone --branch v1.0.0 https://github.com/ArsunPatt/temporal-gnn-risk-detection.git

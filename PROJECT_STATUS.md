@@ -1,6 +1,8 @@
 # Project status
 
-Version 1.0.0 is pending public publication. Experimental Stages 1–5 are complete. The release contains five completed research notebooks, 60 PNG/SVG figure pairs and an 11-page research manuscript.
+Version 1.0.0 is publicly available. Experimental Stages 1–5 are complete. The release contains five completed research notebooks, 60 PNG/SVG figure pairs and an 11-page research manuscript.
+
+[GitHub repository](https://github.com/ArsunPatt/temporal-gnn-risk-detection) · [v1.0.0 release](https://github.com/ArsunPatt/temporal-gnn-risk-detection/releases/tag/v1.0.0) · [Zenodo archive and DOI](https://doi.org/10.5281/zenodo.24323048)
 
 ## Research materials
 
